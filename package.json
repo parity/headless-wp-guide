@@ -1,0 +1,9 @@
+{
+  "name": "headless-wordpress-guide",
+  "version": "1.0.0",
+  "description": "Practical, SEO-safe guide and tested examples for moving a WordPress blog to headless (Astro + Cloudflare Workers)",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test examples/router/routes.test.js examples/astro/links.test.js" },
+  "license": "MIT"
+}
