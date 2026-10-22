@@ -6,6 +6,8 @@ A practical, SEO-safe guide, with tested example code, for moving a WordPress bl
 It comes from migrating a real, SEO-heavy blog (about 180 posts) with **zero changes to its URLs** and a
 **one-minute rollback**. WordPress stays the editor; visitors get fast pages from a separate front end.
 
+**The story behind it:** [Headless WordPress, Zero URL Changes: How We Moved the Cuelinks Blog](https://paritycube.com/headless-wordpress-zero-url-changes-how-we-moved-the-cuelinks-blog/), published by [Parity Cube](https://paritycube.com).
+
 > Hostnames below are placeholders: `www.example.com` is your public site, `cms.example.com` is the private WordPress host.
 > The stack is a choice, not a requirement. The ideas (parity, caching, validation, rollback) apply to any framework or host.
 
